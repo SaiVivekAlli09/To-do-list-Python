@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Finish Calculator App in Python",
+        "due_date": "2023-09-18"
+    },
+    {
+        "title": "Complete To-Do App in Python",
+        "due_date": "2023-09-16"
+    },
+    {
+        "title": "Password Generator App in Python",
+        "due_date": "2023-09-21"
+    },
+    {
+        "title": "Rock-Paper-Scissors Game App in Python",
+        "due_date": "2023-09-25"
+    },
+    {
+        "title": "Contact Book App in Python",
+        "due_date": "2023-09-28"
+    }
+]
